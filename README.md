@@ -7,7 +7,8 @@ To add your work to this repository:
   notes for the topics discussed on April 20th, you would create
   `apr20/ap191.md`. Add your notes using standard [Github
   markdown](https://guides.github.com/features/mastering-markdown/) to this
-  file. You should make appropriate use of formatting and images.
+  file. You should make appropriate use of formatting and images. We strongly
+  recommend using `template.md` as a starting point for this file.
 * Once ready, commit and push to your forked copy, and then [create a pull
   request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
   back to this repository.
